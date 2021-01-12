@@ -1,5 +1,5 @@
 import sys, math, struct, os
-#from io import BytesIO
+from io import BytesIO
 from PIL import Image
 
 doscolors = [
