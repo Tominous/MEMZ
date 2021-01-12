@@ -81,7 +81,7 @@ int main(int argc, char **argv) {
 				bs += bx;
 			}
 
-			//bi = 0;
+			bi = 0;
 			
 			mp = (mp - ml);
 			mp = (mp >> 8) | (mp << 8);
